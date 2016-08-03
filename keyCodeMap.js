@@ -1,3 +1,5 @@
+'use strict';
+
 var keyCodeMap = {
     whitespace: {
         9: 'tab', 13: 'enter', 32: 'space'
@@ -50,7 +52,5 @@ function getTypeAndChar (keyCode) {
             }
         }
     }
-    return null
+    return null;
 }
-var obj = getTypeAndChar('16');
-console.log(obj);
