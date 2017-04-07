@@ -1,4 +1,5 @@
-# key Code Map [![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]
+# key Code Map [![NPM version][npm-image]][npm-url]]
+
 通过JS监听可以获得键盘按键的键值，但如何使用键值来判断到底触发了哪个按键？
 此时可以用到Key Code Map，它提供了键值到按键的反映射。
 
